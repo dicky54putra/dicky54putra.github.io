@@ -3,23 +3,23 @@
   "title": "About Me",
   "role": "a Frontend Developer",
   "profile": "dicky.jpg",
-  "desc": "Hello, my name is Dicky Saputra. I'm a Frontend Developer that sometimes do the backend, sometime do the devops. but I still a Frontender. Always interested about the new technology. Hope I can share my knowledge as much as possible.",
-  "short_desc": "Hello, my name is Dicky Saputra. I'm a Frontend Developer that sometimes do the backend, sometime do the devops. but I still a Frontender. Always interested about the new technology. Hope I can share my knowledge as much as possible.  My portfolio can check at https://dicky54putra.github.io",
+  "desc": "Hey, I’m Dicky Saputra — a Frontend Developer based in Jepara, Indonesia with over 5 years of experience crafting clean, responsive web interfaces. I specialize in turning design systems into high-performing, scalable frontend code using tools like React, Next.js, and WordPress. I enjoy solving real-world problems with efficient code and am always up for learning new technologies and building impactful digital products.",
+  "short_desc": "Hey, I’m Dicky Saputra — a Frontend Developer based in Jepara, Indonesia with over 5 years of experience crafting clean, responsive web interfaces. I specialize in turning design systems into high-performing, scalable frontend code using tools like React, Next.js, and WordPress. I enjoy solving real-world problems with efficient code and am always up for learning new technologies and building impactful digital products.",
   "work_experience": [
     {
-      "position": "Frontend Web Developer",
+      "position": "Frontend Developer",
       "company": "Made Indonesia",
       "startDate": "June 2021",
       "endDate": "Now",
-      "jobdesk": "Slicing the design form figma or Adobe XD to web and make responsive view. [ReactJs, Wordpress, Sass, Webpack, Laravel]",
+      "jobdesk": "Converted UI designs from Figma and Adobe XD into responsive, pixel-perfect web pages. Used modern frameworks and libraries such as React, Next.js, and WordPress. Applied mobile-first and cross-browser design principles to ensure consistency across devices. Collaborated with backend developers to integrate APIs and maintain smooth data flow between frontend and backend. Established and maintained frontend code standards, reusable components, and project structure. Led a small frontend team, providing guidance on best practices, performance optimization, and code reviews.",
       "logo": "made-indonesia.jpg"
     },
     {
-      "position": "Programmer",
+      "position": "Fullstack Developer",
       "company": "CV. Garuda Sarana Sejahtera",
       "startDate": "June 2020",
       "endDate": "May 2021",
-      "jobdesk": "Work as a Programmer for CV. Garuda Sarana Sejahtera, I made several projects, including e-learning, accounting, transportation, POS, and programs to control students in schools such as registering new students, payments, etc. [Yii2, Codeignaiter]",
+      "jobdesk": "Led end-to-end program development from concept to deployment. Planned and implemented system architecture. Developed frontend and backend codebases. Integrated APIs for seamless data communication. Adapted to both solo and team-based development workflows.",
       "logo": "gss.png"
     },
     {
@@ -27,7 +27,7 @@
       "company": "CV. Garuda Sarana Sejahtera",
       "startDate": "January 2019",
       "endDate": "June 2019",
-      "jobdesk": "I help programmers in cv. Garuda sarana sejahtera to build a program. starting from the ui / ux design, solving the problem, and make the program. [Codeignaiter]",
+      "jobdesk": "Collaborated with programmers to develop complete software solutions. Handled end-to-end tasks including: UI/UX design, Problem-solving and system planning, Frontend development and implementation, Worked both independently and in team settings, depending on the project scope.",
       "logo": "gss.png"
     }
   ],
@@ -36,7 +36,7 @@
       "logo": "skansaba.png",
       "name": "SMKN 1 BANGSRI",
       "major": "Software Enginering",
-      "jobdesk": "algorithms, basic programming, oop, databases, flowcharts, frameworks, git.",
+      "jobdesk": "Learned foundational concepts during my academic studies, including algorithms, basic programming, object-oriented programming (OOP), databases, flowcharts, frameworks, and version control using Git.",
       "startDate": "2017",
       "endDate": "2020"
     }
